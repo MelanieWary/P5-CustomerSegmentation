@@ -1,5 +1,5 @@
 ## Context of the project:
-Customer segmentation for OLIST e-commerce
+Customer segmentation for OLIST e-commerce (data availble [here](https://www.kaggle.com/olistbr/brazilian-ecommerce))
 
 ## Objectives of the project:
 
